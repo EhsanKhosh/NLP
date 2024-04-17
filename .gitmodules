@@ -1,0 +1,6 @@
+[submodule "Text-Summarizer"]
+	path = Text-Summarizer
+	url = git@github.com:EhsanKhosh/Text-Summarizer.git
+[submodule "WhatApp-FarsiChat-Analysis"]
+	path = WhatApp-FarsiChat-Analysis
+	url = git@github.com:EhsanKhosh/WhatApp-FarsiChat-Analysis.git
